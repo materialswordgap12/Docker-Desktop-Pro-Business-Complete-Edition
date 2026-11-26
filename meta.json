@@ -1,0 +1,25 @@
+{
+  "repo": "docker-desktop-professional-business-complete-edition",
+  "product": "Docker Desktop Pro Business Complete Edition",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "docker-pro",
+    "docker-pro-pro",
+    "containers",
+    "devops",
+    "container-runtime",
+    "docker-compose",
+    "how-to-install-docker-pro",
+    "how-to-setup-docker-pro",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Docker Desktop Pro Business Complete Edition"
+}
